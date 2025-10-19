@@ -1,8 +1,8 @@
 function displayLabExecutorInfo() {
     const executor = {
-        fullName: "Ваше Прізвище Ім'я", // Замініть на своє ПІБ
-        group: "КИ-31", // Замініть на назву вашої групи
-        labNumber: 2,
+        fullName: "Ваше прізвище ім'я", // Замініть на своє ПІБ
+        group: "4ОК", // Замініть на назву вашої групи
+        labNumber: 8,
         topic: "Робота з об'єктною моделлю документа (DOM)"
     };
 
